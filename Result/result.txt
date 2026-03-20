@@ -1,0 +1,254 @@
+BPIC13_closed: 
+
+(array([0.54386154, 0.27909102, 0.42509307, 0.84493136, 0.00571414,
+       0.12244755, 0.67107834, 0.8260269 , 0.13756988, 0.57551824]), 11.296544999198117 / 0.39252572212971465)
+
+Minimising KLD with L-BFGS-B
+KLD / rEMD value with starting values: 11.296544999198117 / 0.39252572212971465
+KLD / rEMD value with optimized values (L-BFGS-B): 4.299895862554609 / 0.08749640348314353 in 49.76      seconds (82   iterations)
+Execution time: 49.94787287712097 seconds
+
+Minimising KLD with TNC
+KLD / rEMD value with starting values: 11.296544999198117 / 0.39252572212971465
+KLD / rEMD value with optimized values (TNC     ): 4.304271928686797 / 0.08809917585788715 in 51.07      seconds (17   iterations)
+Execution time: 51.257330656051636 seconds
+
+Minimising KLD with Powell
+KLD / rEMD value with starting values: 11.296544999198117 / 0.39252572212971465
+KLD / rEMD value with optimized values (Powell  ): 4.301039504829891 / 0.08749197956537169 in 21.27      seconds (4    iterations)
+Execution time: 21.46143078804016 seconds
+
+Minimising KLD with Nelder-Mead
+KLD / rEMD value with starting values: 11.296544999198117 / 0.39252572212971465
+KLD / rEMD value with optimized values (Nelder-Mead): 4.573225134404605 / 0.22445194317262912 in 91.54      seconds (1439 iterations)
+Execution time: 91.72662019729614 seconds
+
+Minimising rEMD with Powell
+KLD / rEMD value with starting values: 11.296544999198117 / 0.39252572212971465
+KLD / rEMD value with optimized values (Powell  ): 5.5117755489940965 / 0.08371287861434287 in 165.25     seconds (8    iterations)
+Execution time: 165.48315858840942 seconds
+
+Minimising rEMD with Nelder-Mead
+KLD / rEMD value with starting values: 11.296544999198117 / 0.39252572212971465
+KLD / rEMD value with optimized values (Nelder-Mead): 12.077994825089114 / 0.09213272048051432 in 58.19      seconds (359  iterations)
+Execution time: 58.37257266044617 seconds
+
+BPIC13_incidents:
+
+(array([0.54386154, 0.27909102, 0.42509307, 0.84493136, 0.00571414,
+       0.12244755, 0.67107834, 0.8260269 , 0.13756988, 0.57551824,
+       0.89143063]), 15.54813388547362 / 0.5848884478940087)
+
+Minimising KLD with L-BFGS-B
+KLD / rEMD value with starting values: 15.54813388547362 / 0.5848884478940087
+KLD / rEMD value with optimized values (L-BFGS-B): 6.604896793377886 / 0.8696411184790108 in 727.25     seconds (49   iterations)
+Execution time: 738.2201867103577 seconds
+
+Minimising KLD with TNC
+KLD / rEMD value with starting values: 15.54813388547362 / 0.5848884478940087
+KLD / rEMD value with optimized values (TNC     ): 6.730377474121273 / 0.8550048172720037 in 1483.01    seconds (22   iterations)
+Execution time: 1494.2819120883942 seconds
+
+Minimising KLD with Powell
+KLD / rEMD value with starting values: 15.54813388547362 / 0.5848884478940087
+KLD / rEMD value with optimized values (Powell  ): 6.605400919390255 / 0.8695837330410071 in 541.83     seconds (3    iterations)
+Execution time: 552.9371087551117 seconds
+
+Minimising KLD with Nelder-Mead
+KLD / rEMD value with starting values: 15.54813388547362 / 0.5848884478940087
+KLD / rEMD value with optimized values (Nelder-Mead): 7.758865939779449 / 0.8711556514010145 in 2454.44    seconds (1589 iterations)
+Execution time: 2465.547476053238 seconds
+
+Minimising rEMD with Powell
+KLD / rEMD value with starting values: 15.54813388547362 / 0.5848884478940087
+KLD / rEMD value with optimized values (Powell  ): 8.026865986983141 / 0.18135320622300316 in 73031.13   seconds (7    iterations)
+Execution time: 73638.55973768234 seconds
+
+Minimising rEMD with Nelder-Mead
+T/O
+
+BPIC13_open:
+
+(array([0.54386154, 0.27909102, 0.42509307, 0.84493136, 0.00571414,
+       0.12244755, 0.67107834, 0.8260269 , 0.13756988]), 7.772768443789538 / 0.2482633455260007)
+
+Minimising KLD with L-BFGS-B
+KLD / rEMD value with starting values: 7.772768443789538 / 0.2482633455260007
+KLD / rEMD value with optimized values (L-BFGS-B): 3.60623256255126 / 0.13807511629799998 in 2.63       seconds (21   iterations)
+Execution time: 2.6816632747650146 seconds
+
+Minimising KLD with TNC
+KLD / rEMD value with starting values: 7.772768443789538 / 0.2482633455260007
+KLD / rEMD value with optimized values (TNC     ): 3.638339617893369 / 0.14782917552100047 in 8.81       seconds (16   iterations)
+Execution time: 8.860857486724854 seconds
+
+Minimising KLD with Powell
+KLD / rEMD value with starting values: 7.772768443789538 / 0.2482633455260007
+KLD / rEMD value with optimized values (Powell  ): 4.27963440164911 / 0.0899534906540001 in 152.24     seconds (30   iterations)
+Execution time: 152.2935013771057 seconds
+
+Minimising KLD with Nelder-Mead
+KLD / rEMD value with starting values: 7.772768443789538 / 0.2482633455260007
+KLD / rEMD value with optimized values (Nelder-Mead): 3.608005767114713 / 0.1374489023220003 in 15.50      seconds (1272 iterations)
+Execution time: 15.548116207122803 seconds
+
+Minimising rEMD with Powell
+KLD / rEMD value with starting values: 7.772768443789538 / 0.2482633455260007
+KLD / rEMD value with optimized values (Powell  ): 6.652772639292379 / 0.20995275360000015 in 33.88      seconds (7    iterations)
+Execution time: 33.928224325180054 seconds
+
+Minimising rEMD with Nelder-Mead
+KLD / rEMD value with starting values: 7.772768443789538 / 0.2482633455260007
+KLD / rEMD value with optimized values (Nelder-Mead): 4.794513562332654 / 0.11659238118400007 in 34.76      seconds (910  iterations)
+Execution time: 34.80815315246582 seconds
+
+BPIC17_ol:
+
+(array([0.54386154, 0.27909102, 0.42509307, 0.84493136, 0.00571414,
+       0.12244755, 0.67107834]), 6.103987971191606 / 0.2947007369808003)
+
+Minimising KLD with L-BFGS-B
+KLD / rEMD value with starting values: 6.103987971191606 / 0.2947007369808003
+KLD / rEMD value with optimized values (L-BFGS-B): 1.0144882302784108 / 0.09767289349380037 in 0.06       seconds (19   iterations)
+Execution time: 0.06431221961975098 seconds
+
+Minimising KLD with TNC
+KLD / rEMD value with starting values: 6.103987971191606 / 0.2947007369808003
+KLD / rEMD value with optimized values (TNC     ): 1.0144882373020305 / 0.09767362681559999 in 0.20       seconds (19   iterations)
+Execution time: 0.20483779907226562 seconds
+
+Minimising KLD with Powell
+KLD / rEMD value with starting values: 6.103987971191606 / 0.2947007369808003
+KLD / rEMD value with optimized values (Powell  ): 1.0145540233098695 / 0.09767464349700021 in 0.06       seconds (2    iterations)
+Execution time: 0.05968046188354492 seconds
+
+Minimising KLD with Nelder-Mead
+KLD / rEMD value with starting values: 6.103987971191606 / 0.2947007369808003
+KLD / rEMD value with optimized values (Nelder-Mead): 1.017103725965852 / 0.09780947672820012 in 0.23       seconds (628  iterations)
+Execution time: 0.23140549659729004 seconds
+
+Minimising rEMD with Powell
+KLD / rEMD value with starting values: 6.103987971191606 / 0.2947007369808003
+KLD / rEMD value with optimized values (Powell  ): 2.3454632064028047 / 0.015309885918599997 in 0.86       seconds (10   iterations)
+Execution time: 0.8579225540161133 seconds
+
+Minimising rEMD with Nelder-Mead
+KLD / rEMD value with starting values: 6.103987971191606 / 0.2947007369808003
+KLD / rEMD value with optimized values (Nelder-Mead): 2.944728481797038 / 0.08508724961100021 in 0.36       seconds (378  iterations)
+Execution time: 0.3652346134185791 seconds
+
+BPIC20_dd:
+
+(array([0.54386154, 0.27909102, 0.42509307, 0.84493136, 0.00571414,
+       0.12244755, 0.67107834, 0.8260269 , 0.13756988, 0.57551824,
+       0.89143063, 0.20999292, 0.18614289, 0.10926851, 0.2204778 ,
+       0.97864516, 0.81187147, 0.17276907, 0.81640852, 0.27479967,
+       0.43227248, 0.94008979, 0.81783173, 0.33677584, 0.17623504,
+       0.37345921]), 23.576980853199 / 0.9871670000240004)
+
+Minimising KLD with L-BFGS-B
+KLD / rEMD value with starting values: 23.576980853199 / 0.9871670000240004
+KLD / rEMD value with optimized values (L-BFGS-B): 2.949568919061387 / 0.08216714656100024 in 287.23     seconds (159  iterations)
+Execution time: 287.3701672554016 seconds
+
+Minimising KLD with TNC
+KLD / rEMD value with starting values: 23.576980853199 / 0.9871670000240004
+KLD / rEMD value with optimized values (TNC     ): 3.0736496837781524 / 0.08678097101300024 in 393.24     seconds (33   iterations)
+Execution time: 393.4112117290497 seconds
+
+Minimising KLD with Powell
+KLD / rEMD value with starting values: 23.576980853199 / 0.9871670000240004
+KLD / rEMD value with optimized values (Powell  ): 2.94989933402926 / 0.08216681322600072 in 45.67      seconds (2    iterations)
+Execution time: 45.84657859802246 seconds
+
+Minimising KLD with Nelder-Mead
+KLD / rEMD value with starting values: 23.576980853199 / 0.9871670000240004
+KLD / rEMD value with optimized values (Nelder-Mead): 7.94113812583494 / 0.9013364002350004 in 291.26     seconds (4298 iterations)
+Execution time: 291.39382123947144 seconds
+
+Minimising rEMD with Powell
+KLD / rEMD value with starting values: 23.576980853199 / 0.9871670000240004
+KLD / rEMD value with optimized values (Powell  ): 5.798008175318033 / 0.01714982814300068 in 1804.63    seconds (54   iterations)
+Execution time: 1804.7637543678284 seconds
+
+Minimising rEMD with Nelder-Mead
+KLD / rEMD value with starting values: 23.576980853199 / 0.9871670000240004
+KLD / rEMD value with optimized values (Nelder-Mead): 20.987236330645974 / 0.794290764663 in 87.03      seconds (797  iterations)
+Execution time: 87.15666675567627 seconds
+
+BPIC20_rfp:
+
+(array([0.54386154, 0.27909102, 0.42509307, 0.84493136, 0.00571414,
+       0.12244755, 0.67107834, 0.8260269 , 0.13756988, 0.57551824,
+       0.89143063, 0.20999292, 0.18614289, 0.10926851, 0.2204778 ,
+       0.97864516, 0.81187147, 0.17276907, 0.81640852, 0.27479967,
+       0.43227248, 0.94008979, 0.81783173, 0.33677584, 0.17623504,
+       0.37345921, 0.00668282, 0.25317393, 0.79586685, 0.01623972]), 23.073913550449404 / 0.9881252500000006)
+
+Minimising KLD with L-BFGS-B
+KLD / rEMD value with starting values: 23.073913550449404 / 0.9881252500000006
+KLD / rEMD value with optimized values (L-BFGS-B): 3.401681572550657 / 0.10340808445500035 in 381.80     seconds (123  iterations)
+Execution time: 381.9756121635437 seconds
+
+Minimising KLD with TNC
+KLD / rEMD value with starting values: 23.073913550449404 / 0.9881252500000006
+KLD / rEMD value with optimized values (TNC     ): 3.7553534548257343 / 0.1266223558770006 in 757.81     seconds (36   iterations)
+Execution time: 757.9815065860748 seconds
+
+Minimising KLD with Powell
+KLD / rEMD value with starting values: 23.073913550449404 / 0.9881252500000006
+KLD / rEMD value with optimized values (Powell  ): 3.4092569225589275 / 0.10314662553800036 in 157.91     seconds (4    iterations)
+Execution time: 158.08478903770447 seconds
+
+Minimising KLD with Nelder-Mead
+KLD / rEMD value with starting values: 23.073913550449404 / 0.9881252500000006
+KLD / rEMD value with optimized values (Nelder-Mead): 7.416649129289031 / 0.23694783653800067 in 486.62     seconds (5033 iterations)
+Execution time: 486.78920912742615 seconds
+
+Minimising rEMD with Powell
+KLD / rEMD value with starting values: 23.073913550449404 / 0.9881252500000006
+KLD / rEMD value with optimized values (Powell  ): 6.791494773536909 / 0.04239383425300011 in 2810.08    seconds (52   iterations)
+Execution time: 2810.263449192047 seconds
+
+Minimising rEMD with Nelder-Mead
+KLD / rEMD value with starting values: 23.073913550449404 / 0.9881252500000006
+KLD / rEMD value with optimized values (Nelder-Mead): 19.647032166733467 / 0.2644855783250004 in 555.40     seconds (4381 iterations)
+Execution time: 555.5874071121216 seconds
+
+Roadfines:
+
+(array([0.54386154, 0.27909102, 0.42509307, 0.84493136, 0.00571414,
+       0.12244755, 0.67107834, 0.8260269 , 0.13756988, 0.57551824,
+       0.89143063, 0.20999292, 0.18614289, 0.10926851, 0.2204778 ,
+       0.97864516, 0.81187147, 0.17276907, 0.81640852, 0.27479967]), 12.438447169136678 / 0.4596524808479002)
+       
+Minimising KLD with L-BFGS-B
+KLD / rEMD value with starting values: 12.438447169136678 / 0.4596524808479002
+KLD / rEMD value with optimized values (L-BFGS-B): 3.07058861281967 / 0.13443998709170024 in 166.73     seconds (114  iterations)
+Execution time: 167.00921154022217 seconds
+
+Minimising KLD with TNC
+KLD / rEMD value with starting values: 12.438447169136678 / 0.4596524808479002
+KLD / rEMD value with optimized values (TNC     ): 3.8258106868831754 / 0.23653747524275026 in 244.66     seconds (25   iterations)
+Execution time: 244.93895387649536 seconds
+
+Minimising KLD with Powell
+KLD / rEMD value with starting values: 12.438447169136678 / 0.4596524808479002
+KLD / rEMD value with optimized values (Powell  ): 3.0706767660418257 / 0.1344220061282002 in 30.65      seconds (2    iterations)
+Execution time: 30.935926914215088 seconds
+
+Minimising KLD with Nelder-Mead
+KLD / rEMD value with starting values: 12.438447169136678 / 0.4596524808479002
+KLD / rEMD value with optimized values (Nelder-Mead): 3.095112575652364 / 0.1332972564706002 in 239.15     seconds (3195 iterations)
+Execution time: 239.42997479438782 seconds
+
+Minimising rEMD with Powell
+KLD / rEMD value with starting values: 12.438447169136678 / 0.4596524808479002
+KLD / rEMD value with optimized values (Powell  ): 12.03414543152924 / 0.0440785612649 in 1263.41    seconds (24   iterations)
+Execution time: 1263.6642637252808 seconds
+
+Minimising rEMD with Nelder-Mead
+KLD / rEMD value with starting values: 12.438447169136678 / 0.4596524808479002
+KLD / rEMD value with optimized values (Nelder-Mead): 11.433844296128333 / 0.05225556662570022 in 528.97     seconds (3151 iterations)
+Execution time: 529.2236788272858 seconds
+
